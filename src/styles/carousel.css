@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content{
+    margin-top: 10px;
+}
+
+p {
+  width: 30vw;
+}
+
+.btns {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+  p {
+    width: 100vw;
+  }
+}
