@@ -15,19 +15,19 @@ const images = [
     Name: "I am Jack",
     src: image1,
     alt: "Image 1",
-    text: "Technology refers to the tools, techniques, methods, and processes used to create, develop, and improve products, services, and systems.Technology has evolved over time, from simple tools such as the wheel and the hammer, to complex machines and systems such as computers, smartphones, and the internet. ",
+    text: "Technology refers to the tools, techniques, methods, and processes used to create, develop, and improve products, services, and systems.",
   },
   {
     heading: "React",
     src: image2,
     alt: "Image 2",
-    text: "React is an open-source JavaScript library used for building user interfaces. It was developed by Facebook and is now maintained by a community of developers. React is known for its declarative and efficient approach to building complex UIs by breaking them down into smaller, reusable components.",
+    text: "React is an open-source JavaScript library used for building user interfaces.it also uses a virtual DOM which allows it to efficiently update the UI.",
   },
   {
     heading: "Information technology",
     src: image3,
     alt: "Image 3",
-    text: "Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes.",
+    text: "Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store and secure.",
   },
   {
     heading:'Software development',
